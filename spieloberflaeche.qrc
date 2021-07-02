@@ -1,0 +1,32 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Kniffelblockklein.png</file>
+  </qresource>
+  <qresource prefix="save">
+    <file>save.png</file>
+  </qresource>
+  <qresource prefix="wuerfel3">
+    <file>wuerfel3.png</file>
+  </qresource>
+  <qresource prefix="wuerfel4">
+    <file>wuerfel4.png</file>
+  </qresource>
+  <qresource prefix="wuerfel5">
+    <file>wuerfel5.png</file>
+  </qresource>
+  <qresource prefix="wuerfel6">
+    <file>wuerfel6.png</file>
+  </qresource>
+  <qresource prefix="wuerfel2">
+    <file>wuerfel2.png</file>
+  </qresource>
+  <qresource prefix="wuerfel1">
+    <file>wuerfel1.png</file>
+  </qresource>
+  <qresource prefix="wuerfel">
+    <file>rote würfel_cut.png</file>
+  </qresource>
+  <qresource prefix="flaeche">
+    <file>Wuerfelflaeche.png</file>
+  </qresource>
+</RCC>

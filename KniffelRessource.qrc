@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>68485_kp_wuerfelbecher_1000x1000px.png</file>
+  </qresource>
+  <qresource prefix="Kneipe">
+    <file>Kneipe.jpg</file>
+  </qresource>
+  <qresource prefix="Text">
+    <file>Kniffeltext.PNG</file>
+  </qresource>
+</RCC>
